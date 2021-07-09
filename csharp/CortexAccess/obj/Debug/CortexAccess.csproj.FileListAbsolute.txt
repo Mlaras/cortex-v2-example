@@ -1,0 +1,11 @@
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.dll.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\CortexAccess.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\bin\Debug\WebSocket4Net.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.csproj.CopyComplete
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\CortexAccess\obj\Debug\CortexAccess.pdb

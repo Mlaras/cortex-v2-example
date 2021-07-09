@@ -1,0 +1,14 @@
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\BandPowerLogger.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\WebSocket4Net.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\bin\Debug\CortexAccess.dll.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.csproj.CopyComplete
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\BandPowerLogger\obj\Debug\BandPowerLogger.pdb

@@ -1,0 +1,14 @@
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\EEGLogger.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\EEGLogger.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\EEGLogger.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\WebSocket4Net.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\CortexAccess.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\bin\Debug\CortexAccess.dll.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\obj\Debug\EEGLogger.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\obj\Debug\EEGLogger.csproj.CopyComplete
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\obj\Debug\EEGLogger.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\EEGLogger\obj\Debug\EEGLogger.pdb

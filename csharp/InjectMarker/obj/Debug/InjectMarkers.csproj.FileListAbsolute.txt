@@ -1,0 +1,17 @@
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\InjectMarker.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\InjectMarker.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\InjectMarker.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\WebSocket4Net.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\CortexAccess.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\CortexAccess.dll.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\Newtonsoft.Json.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarkers.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarker.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarkers.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarkers.csproj.CopyComplete
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarker.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\InjectMarker\obj\Debug\InjectMarker.pdb

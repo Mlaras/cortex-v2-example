@@ -1,0 +1,17 @@
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\FacialExpressionTraining.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\Newtonsoft.Json.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\WebSocket4Net.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\CortexAccess.dll.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\Newtonsoft.Json.pdb
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\bin\Debug\Newtonsoft.Json.xml
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.csprojAssemblyReference.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.exe.config
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.csproj.CoreCompileInputs.cache
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.csproj.CopyComplete
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.exe
+D:\Documentos\Proyectos\Lifeware\NewIntegra\cortex-v2-example\csharp\FacialExpressionTraining\obj\Debug\FacialExpressionTraining.pdb
